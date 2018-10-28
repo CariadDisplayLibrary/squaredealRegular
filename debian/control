@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: squaredealRegular.h
-Description: squaredealRegular font for DisplayCore
+Description: squaredealRegular
