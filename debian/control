@@ -1,15 +1,16 @@
-Source: libdisplaycore-font-squaredealregular
+Source: libcariad-font-squaredealregular
 Section: main
 Priority: extra
 Maintainer: Matt Jenkins <matt@majenko.co.uk>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.4
 
-Package: libdisplaycore-font-squaredealregular
+Package: libcariad-font-squaredealregular
+Replaces: libdisplaycore-font-squaredealregular
 Section: main
 Architecture: all
-XBSC-Group: DisplayCore
+XBSC-Group: Cariad
 XBSC-Subgroup: Fonts
-Depends: libdisplaycore-core
+Depends: libcariad-core
 Provides: squaredealRegular.h
 Description: squaredealRegular

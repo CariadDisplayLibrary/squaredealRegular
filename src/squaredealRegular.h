@@ -1,7 +1,7 @@
 #ifndef _SQUAREDEALREGULAR_H
 #define _SQUAREDEALREGULAR_H
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 
 namespace Fonts {
     extern const uint8_t squaredealRegular10[];
